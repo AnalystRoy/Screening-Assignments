@@ -1,4 +1,4 @@
-# Screening-assigments
+# Screening-Assignments
 1. Create a function in python to read the text file and replace specific content
 of the file.
 File name example.txt
